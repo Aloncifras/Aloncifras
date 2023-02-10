@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aloncifras
 - 👀 I’m interested in Brain Machine Interfaces (BMI) and Artificial Inteligence.
-- 🌱 I’m currently learning about data post-processment, and electronics. 
+- 🌱 I’m currently learning about data post-processment, electronics and Spiking Neural Networks. 
 - 💞️ I’m looking to collaborate on neural networks to recognise electromiografical patterns.
 
 <br>
